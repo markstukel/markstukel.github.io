@@ -1,4 +1,4 @@
-![Image of Mark Stukel](images/headshot.png
+![Image of Mark Stukel](images/headshot.jpg
 "PhD Student in the Uconn EEB department")
 ## About Me
 I am a PhD student in the UConn EEB department
