@@ -3,5 +3,5 @@
 ## About Me
 I am a PhD student in the UConn EEB department
 interested in phylogenetics, systematics, and biogeography.
-[My CV](PDFs/cv.pdf)
+[My CV](PDFs/Mark Stukel CV.pdf)
 [Contact Info](contact-info.html)
