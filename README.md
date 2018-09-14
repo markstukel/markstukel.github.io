@@ -7,4 +7,4 @@ interested in phylogenetics, systematics, and biogeography.
 
 [My CV](PDFs/Mark Stukel CV.pdf)
 
-[Contact Info](contact-info.html)
+[Contact Info](pages/contact-info.html)
