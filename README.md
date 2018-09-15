@@ -1,4 +1,10 @@
-[Home](https://markstukel.github.io)  |  [Research](https://markstukel.github.io/research.html)  |  [About Me](https://markstukel.github.io/about-me.html)  |  [CV](https://markstukel.github.io/cv.html)  |  [Contact Info](https://markstukel.github.io/contact-info.html)
+![Image of Mark Stukel](images/headshot.jpg
+"PhD Student in the Uconn EEB department")
 
+## About Me
+I am a PhD student in the [Simon Lab](http://wp.chris-simon-lab.eeb.uconn.edu/) in the [UConn EEB department](http://eeb.uconn.edu)
+interested in phylogenetics, systematics, and biogeography.
 
+[My CV](PDFs/Mark Stukel CV.pdf)
 
+[Contact Info](contact-info.html)
