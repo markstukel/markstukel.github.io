@@ -3,6 +3,8 @@ title: Contact Info
 layout: default
 ---
 
+[Home](https://markstukel.github.io)  |  [Research](pages/research.html)  |  [About Me](pages/about-me.html)  |  [CV](pages/cv.html)  |  [Contact Info](pages/contact-info.html)
+
 Feel free to contact me at <mark.stukel@uconn.edu>.
 
 Postal address:
