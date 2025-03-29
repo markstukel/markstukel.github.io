@@ -1,5 +1,5 @@
 ## Mark Stukel, PhD
-![Image of Mark Stukel](images/headshot.jpg
+![Image of Mark Stukel](images/stukel_ohau_cropped.jpeg
 "Postdoc at UC Davis Entomology & Nematology")
 
 ### About Me
